@@ -3,14 +3,14 @@ Todo List App
 A simple and interactive Todo List application built using HTML, CSS, and JavaScript.
 
 Features:
-1.Add new tasks
-2.Set due dates for tasks
-3.Delete tasks
-4.View total number of tasks
-5.Display the current date
-6.Add tasks using the Enter key
-7.Input validation to prevent empty tasks
-8.Clean and responsive user interface
+1.Add new tasks.
+2.Set due dates for tasks.
+3.Delete tasks.
+4.View total number of tasks.
+5.Display the current date.
+6.Add tasks using the Enter key.
+7.Input validation to prevent empty tasks.
+8.Clean and responsive user interface.
 
 Technologies Used
 .HTML
