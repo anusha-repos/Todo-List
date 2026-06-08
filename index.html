@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Todo List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="todo-container">
+
+        <h1>My Todo List</h1>
+
+        <p id="today-date"></p>
+
+        <p class="task-count">
+            Total Tasks: <span class="js-count">0</span>
+        </p>
+
+        <div class="todo-input-grid">
+
+            <input
+                placeholder="Enter a task"
+                class="js-input name-input">
+
+            <input
+                type="date"
+                class="js-date due-date-input">
+
+            <button
+                class="add-todo-button"
+                onclick="addTodo();">
+                Add
+            </button>
+
+        </div>
+
+        <div class="js-todos todo-grid"></div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
